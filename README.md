@@ -544,11 +544,11 @@
 <br>
 
 <div align="center">
-<table>
+<table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="33%" valign="top" align="center">
+<td style="width: 33%; min-width: 240px;" valign="top" align="center">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
 
 <a href="https://movie.douban.com/subject/35196859/">
   <img src="static/ef18d9861.png" alt="劉老根5" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -567,9 +567,9 @@
 </div>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td style="width: 33%; min-width: 240px;" valign="top" align="center">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
 
 <a href="https://movie.douban.com/subject/35196859/">
   <img src="static/15d4cbbff.jpg" alt="劉老根4" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -588,9 +588,9 @@
 </div>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td style="width: 33%; min-width: 240px;" valign="top" align="center">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
 
 <a href="https://movie.douban.com/subject/33437298/">
   <img src="static/b883f89f8.jpg" alt="劉老根3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -622,11 +622,11 @@
 <br>
 
 <div align="center">
-<table>
+<table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="33%" valign="top" align="center">
+<td style="width: 33%; min-width: 240px;" valign="top" align="center">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
 
 <a href="https://movie.douban.com/subject/35343300/">
   <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
