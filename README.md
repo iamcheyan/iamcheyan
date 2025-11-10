@@ -12,23 +12,23 @@
 
 <!-- GitHub 统计卡片 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamcheyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcheyan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamcheyan&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=4ECDC4&icon_color=FF6B6B&text_color=333333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcheyan&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=4ECDC4&text_color=333333"/>
 </div>
 
 <!-- GitHub 连续打卡 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamcheyan&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=iamcheyan&theme=default" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub 活动统计图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamcheyan&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamcheyan&theme=minimal" alt="GitHub Activity Graph"/>
 </div>
 
 <!-- GitHub 资料奖杯 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamcheyan&theme=tokyonight&column=7" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamcheyan&theme=flat&column=7" alt="GitHub Trophy"/>
 </div>
 
 <!-- 贪吃蛇动画 -->
