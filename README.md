@@ -44,106 +44,52 @@
 
 ## 👋 关于我 / 私について
 
-<div align="center">
-  <img src="static/che.png" alt="澈言" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  <br><br>
-  <h2>
-    <img src="https://img.shields.io/badge/徹言-プログラマー・作家・脚本家-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="徹言"/>
-    <br>
-    <img src="https://img.shields.io/badge/澈言-程序员・作家・编剧-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="澈言"/>
-  </h2>
-</div>
 
-<div align="center">
 
 **2009年からフルスタック開発に従事し、Python（Flask・PyWebIO・Streamlit）、JavaScript（ES6+）、MySQLなどの技術スタックを活用してまいりました。2014年に起業し、投資を獲得した経験があります。チームマネジメントやプロジェクト実行の豊富な経験を持ち、書籍出版や映像作品の脚本・制作にも携わるなど、多分野での協働経験を積んでまいりました。**
 
 **自2009年起从事全栈开发，擅长使用 Python（Flask・PyWebIO・Streamlit）、JavaScript（ES6+）、MySQL 等技术栈。2014年创业并获得投资。拥有丰富的团队管理和项目执行经验，并参与书籍出版和影视作品的剧本创作与制作，积累了多领域的协作经验。**
 
-</div>
 
-<br>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(78, 205, 196, 0.2) 0%, rgba(78, 205, 196, 0.1) 100%);">
-
-🔭 **現在の仕事 / 当前工作**
-
+<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(78, 205, 196, 0.2) 0%, rgba(78, 205, 196, 0.1) 100%); margin-bottom:20px">
+🔭 <strong>現在の仕事 / 当前工作</strong>
 <br><br>
-
 フルスタック開発<br>
 書籍執筆<br>
 脚本制作
-
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
-
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 107, 107, 0.1) 100%);">
-
-🌱 **学習中 / 正在学习**
-
+<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 107, 107, 0.1) 100%); margin-bottom:20px">
+🌱 <strong>学習中 / 正在学习</strong>
 <br><br>
-
 日本語<br>
 自然言語処理<br>
 映像制作
-
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
-
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(78, 205, 196, 0.2) 0%, rgba(78, 205, 196, 0.1) 100%);">
-
-💼 **経験 / 经验**
-
+<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(78, 205, 196, 0.2) 0%, rgba(78, 205, 196, 0.1) 100%); margin-bottom:20px">
+💼 <strong>経験 / 经验</strong>
 <br><br>
-
 2009年から開発開始<br>
 2014年創業・投資獲得
-
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 107, 107, 0.1) 100%);">
-
-📚 **出版 / 出版**
-
+<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 107, 107, 0.1) 100%); margin-bottom:20px">
+📚 <strong>出版 / 出版</strong>
 <br><br>
-
 複数の書籍を出版<br>
 映像作品の脚本・制作に携わる
-
 </div>
-
-</td>
-<td width="50%" valign="top" align="center">
 
 <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, rgba(78, 205, 196, 0.2) 0%, rgba(78, 205, 196, 0.1) 100%);">
-
-🎬 **映像作品 / 影视作品**
-
+🎬 <strong>映像作品 / 影视作品</strong>
 <br><br>
-
 ドラマ・映画・ショートドラマ<br>
 脚本・企画・制作
-
 </div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
