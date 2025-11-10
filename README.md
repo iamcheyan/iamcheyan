@@ -260,95 +260,48 @@
 
 <br>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### 🎨 [OrchideaDock](https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock) (2023)
-
-<a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">
-  <img src="static/OrchideaDock.png" alt="OrchideaDock" width="200" style="border-radius: 10px;"/>
-</a>
-
-<p>
-<strong>システムテーマ</strong><br>
-系统主题
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 📊 YRBOOK BAS (2021)
-
-<img src="static/yrbook.png" alt="YRBOOK BAS" width="200" style="border-radius: 10px;"/>
-
-<p>
-<strong>データ分析ツール</strong><br>
-数据分析工具
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🎮 [Mir2EI2.0](https://iamcheyan.com/app/mir/) (2021)
-
-<a href="https://iamcheyan.com/app/mir/">
-  <img src="static/mir2ei.png" alt="Mir2EI2.0" width="200" style="border-radius: 10px;"/>
-</a>
-
-<p>
-<strong>クラシックゲーム</strong><br>
-经典游戏
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### 🏢 [wenyue.cn](https://wenyue.cn/) (2014)
-
-<a href="https://wenyue.cn/">
-  <img src="static/wenyue.png" alt="wenyue.cn" width="200" style="border-radius: 10px;"/>
-</a>
-
-<p>
-<strong>フォント設計・開発</strong><br>
-字体设计开发
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 💼 [GANLINE Olive Media](https://iamcheyan.com/app/ganline/index.html) (2012)
-
-<a href="https://iamcheyan.com/app/ganline/index.html">
-  <img src="static/ganline.png" alt="GANLINE Olive Media" width="200" style="border-radius: 10px;"/>
-</a>
-
-<p>
-<strong>ウェブサイト設計</strong><br>
-网站设计
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 📖 [VEIKIN](https://iamcheyan.com/app/veikin/) (2007)
-
-<a href="https://iamcheyan.com/app/veikin/">
-  <img src="static/veikin.png" alt="VEIKIN" width="200" style="border-radius: 10px;"/>
-</a>
-
-<p>
-<strong>電子雑誌</strong><br>
-电子杂志
-</p>
-
-</td>
-</tr>
-</table>
-
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">🎨 <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">OrchideaDock</a> (2023)</h4>
+    <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">
+      <img src="static/OrchideaDock.png" alt="OrchideaDock" width="200" style="border-radius: 10px;"/>
+    </a>
+    <p><strong>システムテーマ</strong><br>系统主题</p>
+  </div>
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">📊 YRBOOK BAS (2021)</h4>
+    <img src="static/yrbook.png" alt="YRBOOK BAS" width="200" style="border-radius: 10px;"/>
+    <p><strong>データ分析ツール</strong><br>数据分析工具</p>
+  </div>
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">🎮 <a href="https://iamcheyan.com/app/mir/">Mir2EI2.0</a> (2021)</h4>
+    <a href="https://iamcheyan.com/app/mir/">
+      <img src="static/mir2ei.png" alt="Mir2EI2.0" width="200" style="border-radius: 10px;"/>
+    </a>
+    <p><strong>クラシックゲーム</strong><br>经典游戏</p>
+  </div>
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">🏢 <a href="https://wenyue.cn/">wenyue.cn</a> (2014)</h4>
+    <a href="https://wenyue.cn/">
+      <img src="static/wenyue.png" alt="wenyue.cn" width="200" style="border-radius: 10px;"/>
+    </a>
+    <p><strong>フォント設計・開発</strong><br>字体设计开发</p>
+  </div>
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">💼 <a href="https://iamcheyan.com/app/ganline/index.html">GANLINE Olive Media</a> (2012)</h4>
+    <a href="https://iamcheyan.com/app/ganline/index.html">
+      <img src="static/ganline.png" alt="GANLINE Olive Media" width="200" style="border-radius: 10px;"/>
+    </a>
+    <p><strong>ウェブサイト設計</strong><br>网站设计</p>
+  </div>
+  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 8px 0;">📖 <a href="https://iamcheyan.com/app/veikin/">VEIKIN</a> (2007)</h4>
+    <a href="https://iamcheyan.com/app/veikin/">
+      <img src="static/veikin.png" alt="VEIKIN" width="200" style="border-radius: 10px;"/>
+    </a>
+    <p><strong>電子雑誌</strong><br>电子杂志</p>
+  </div>
+</div>
 
 ---
 
@@ -887,12 +840,7 @@
 
 </div>
 
----
 
-## 📝 最新ブログ記事 / 最新博客文章
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
