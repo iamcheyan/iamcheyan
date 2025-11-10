@@ -163,9 +163,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(78, 205, 196, 0.05);">
 
 #### 🎓 [Fudoki](https://fudoki.iamcheyan.com/) (2025)
 
@@ -184,8 +184,9 @@
 <img src="https://img.shields.io/badge/学習ツール-2025年-4ECDC4?style=flat-square" alt="学习工具"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(255, 107, 107, 0.05);">
 
 #### 📺 [Terebi](https://terebi.iamcheyan.com/) (2025)
 
@@ -204,10 +205,9 @@
 <img src="https://img.shields.io/badge/動画サイト-2025年-FF6B6B?style=flat-square" alt="视频网站"/>
 </p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(78, 205, 196, 0.05);">
 
 #### 📚 [Kotoba](https://kotoba.iamcheyan.com/) (2024)
 
@@ -226,8 +226,9 @@
 <img src="https://img.shields.io/badge/学習ツール-2024年-4ECDC4?style=flat-square" alt="学习工具"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(255, 107, 107, 0.05);">
 
 #### 🐧 [7z-for-Linux](https://github.com/iamcheyan/7z-for-Linux) (2024)
 
@@ -246,9 +247,9 @@
 <img src="https://img.shields.io/badge/ソフトウェア移植-2024年-3776AB?style=flat-square" alt="软件移植"/>
 </p>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -315,9 +316,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
 
@@ -337,8 +338,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
 
@@ -358,8 +360,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
 
@@ -379,10 +382,9 @@
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
 
@@ -402,8 +404,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
 
@@ -423,9 +426,9 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <div align="center">
 
@@ -435,9 +438,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
 
 <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
 
@@ -458,8 +461,9 @@
 
 </div>
 
-</td>
-<td width="50%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
 
 <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);">
 
@@ -480,9 +484,9 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -496,12 +500,11 @@
 
 <br>
 
-<div align="center">
-<table style="table-layout: fixed; width: 100%;">
-<tr>
-<td style="width: 33%; min-width: 240px;" valign="top" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+
+<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/35196859/">
   <img src="static/ef18d9861.png" alt="劉老根5" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -519,10 +522,11 @@
 
 </div>
 
-</td>
-<td style="width: 33%; min-width: 240px;" valign="top" align="center">
+</div>
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+
+<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/35196859/">
   <img src="static/15d4cbbff.jpg" alt="劉老根4" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -540,10 +544,11 @@
 
 </div>
 
-</td>
-<td style="width: 33%; min-width: 240px;" valign="top" align="center">
+</div>
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+
+<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/33437298/">
   <img src="static/b883f89f8.jpg" alt="劉老根3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -561,9 +566,8 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
 </div>
 
 <div align="center">
@@ -574,12 +578,11 @@
 
 <br>
 
-<div align="center">
-<table style="table-layout: fixed; width: 100%;">
-<tr>
-<td style="width: 33%; min-width: 240px;" valign="top" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1); width: 100%; max-width: 340px; min-width: 220px; display: inline-block;">
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+
+<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/35343300/">
   <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -597,8 +600,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
@@ -618,8 +622,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
@@ -639,10 +644,9 @@
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
@@ -662,8 +666,9 @@
 
 </div>
 
-</td>
-<td width="50%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
@@ -683,9 +688,8 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
 </div>
 
 <div align="center">
@@ -696,10 +700,9 @@
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
@@ -719,8 +722,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
@@ -740,8 +744,9 @@
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
@@ -761,10 +766,9 @@
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
 
@@ -784,8 +788,9 @@
 
 </div>
 
-</td>
-<td width="50%" valign="top" align="center">
+</div>
+
+<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
 
 <div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
 
@@ -805,9 +810,8 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
 </div>
 
 <div align="center">
@@ -1147,27 +1151,25 @@
 
 ## 📫 連絡先 / 联系方式
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div style="flex: 1 1 30%; min-width: 200px; text-align: center;">
 <a href="mailto:me@iamcheyan.com">
   <img src="https://img.shields.io/badge/Email-me@iamcheyan.com-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</td>
-<td align="center" width="33%">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 200px; text-align: center;">
 <a href="https://iamcheyan.com">
   <img src="https://img.shields.io/badge/Website-iamcheyan.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
-</td>
-<td align="center" width="33%">
+</div>
+
+<div style="flex: 1 1 30%; min-width: 200px; text-align: center;">
 <a href="https://x.com/iamcheyan">
   <img src="https://img.shields.io/badge/Twitter-@iamcheyan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
