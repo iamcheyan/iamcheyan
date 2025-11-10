@@ -166,7 +166,7 @@
 
 <div align="center">
 <a href="https://fudoki.iamcheyan.com/">
-  <img src="static/fudoki.png" alt="Fudoki" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/fudoki.png" alt="Fudoki" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
@@ -187,7 +187,7 @@
 
 <div align="center">
 <a href="https://terebi.iamcheyan.com/">
-  <img src="static/terebi.png" alt="Terebi" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/terebi.png" alt="Terebi" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
@@ -208,7 +208,7 @@
 
 <div align="center">
 <a href="https://kotoba.iamcheyan.com/">
-  <img src="static/kotoba.png" alt="Kotoba" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/kotoba.png" alt="Kotoba" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
@@ -229,7 +229,7 @@
 
 <div align="center">
 <a href="https://github.com/iamcheyan/7z-for-Linux">
-  <img src="static/7z-for-Linux.png" alt="7z-for-Linux" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/7z-for-Linux.png" alt="7z-for-Linux" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
@@ -260,40 +260,40 @@
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">🎨 <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">OrchideaDock</a> (2023)</h4>
     <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">
-      <img src="static/OrchideaDock.png" alt="OrchideaDock" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+      <img src="static/OrchideaDock.png" alt="OrchideaDock" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
     <p style="margin: 8px 0; font-size: 12px;"><strong>システムテーマ</strong><br>系统主题</p>
   </div>
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">📊 YRBOOK BAS (2021)</h4>
-    <img src="static/yrbook.png" alt="YRBOOK BAS" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+    <img src="static/yrbook.png" alt="YRBOOK BAS" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     <p style="margin: 8px 0; font-size: 12px;"><strong>データ分析ツール</strong><br>数据分析工具</p>
   </div>
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">🎮 <a href="https://iamcheyan.com/app/mir/">Mir2EI2.0</a> (2021)</h4>
     <a href="https://iamcheyan.com/app/mir/">
-      <img src="static/mir2ei.png" alt="Mir2EI2.0" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+      <img src="static/mir2ei.png" alt="Mir2EI2.0" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
     <p style="margin: 8px 0; font-size: 12px;"><strong>クラシックゲーム</strong><br>经典游戏</p>
   </div>
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">🏢 <a href="https://wenyue.cn/">wenyue.cn</a> (2014)</h4>
     <a href="https://wenyue.cn/">
-      <img src="static/wenyue.png" alt="wenyue.cn" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+      <img src="static/wenyue.png" alt="wenyue.cn" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
     <p style="margin: 8px 0; font-size: 12px;"><strong>フォント設計・開発</strong><br>字体设计开发</p>
   </div>
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">💼 <a href="https://iamcheyan.com/app/ganline/index.html">GANLINE</a> (2012)</h4>
     <a href="https://iamcheyan.com/app/ganline/index.html">
-      <img src="static/ganline.png" alt="GANLINE Olive Media" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+      <img src="static/ganline.png" alt="GANLINE Olive Media" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
     <p style="margin: 8px 0; font-size: 12px;"><strong>ウェブサイト設計</strong><br>网站设计</p>
   </div>
   <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
     <h4 style="margin: 4px 0; font-size: 14px;">📖 <a href="https://iamcheyan.com/app/veikin/">VEIKIN</a> (2007)</h4>
     <a href="https://iamcheyan.com/app/veikin/">
-      <img src="static/veikin.png" alt="VEIKIN" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+      <img src="static/veikin.png" alt="VEIKIN" width="100px" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
     <p style="margin: 8px 0; font-size: 12px;"><strong>電子雑誌</strong><br>电子杂志</p>
   </div>
@@ -318,7 +318,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
 
 <a href="https://www.books.com.tw/products/0010885446">
-  <img src="static/1e9272132.png" alt="他人の地図では自分の道は見つからない" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/1e9272132.png" alt="他人の地図では自分の道は見つからない" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -338,7 +338,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
 
 <a href="https://book.douban.com/subject/35216411/">
-  <img src="static/1881ddbd3.png" alt="ブロックチェーン風雲" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/1881ddbd3.png" alt="ブロックチェーン風雲" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -358,7 +358,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
 
 <a href="https://book.douban.com/subject/30336323/">
-  <img src="static/d9dd49c2e.png" alt="人生の苦しみを嘆くな、それは世界を見る道だ" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/d9dd49c2e.png" alt="人生の苦しみを嘆くな、それは世界を見る道だ" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -378,7 +378,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
 
 <a href="https://book.douban.com/subject/27592545/">
-  <img src="static/b1fc0c8b0.png" alt="エース起業家：風口ゲーム" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/b1fc0c8b0.png" alt="エース起業家：風口ゲーム" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -398,7 +398,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
 
 <a href="https://book.douban.com/subject/27031444/">
-  <img src="static/49b4e02ab.png" alt="この世界は変わらない人を忘れていく" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/49b4e02ab.png" alt="この世界は変わらない人を忘れていく" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -430,7 +430,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
 
 <a href="https://book.douban.com/subject/30242395/">
-  <img src="static/06988e8c2.png" alt="世界はあなたのような人を罰している" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/06988e8c2.png" alt="世界はあなたのような人を罰している" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -450,7 +450,7 @@
 <div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);">
 
 <a href="https://book.douban.com/subject/30336323/">
-  <img src="static/15c6004d5.png" alt="あなたが温かくなると天気も良くなる" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
+  <img src="static/15c6004d5.png" alt="あなたが温かくなると天気も良くなる" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
 
 <br>
@@ -486,7 +486,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/35196859/">
-  <img src="static/ef18d9861.png" alt="劉老根5" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/ef18d9861.png" alt="劉老根5" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -507,7 +507,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/35196859/">
-  <img src="static/15d4cbbff.jpg" alt="劉老根4" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/15d4cbbff.jpg" alt="劉老根4" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -528,7 +528,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/33437298/">
-  <img src="static/b883f89f8.jpg" alt="劉老根3" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/b883f89f8.jpg" alt="劉老根3" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -561,7 +561,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/35343300/">
-  <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -582,7 +582,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/35402120/">
-  <img src="static/9edaa83ae.jpg" alt="波乱万丈2" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/9edaa83ae.jpg" alt="波乱万丈2" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -603,7 +603,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/30407554/">
-  <img src="static/d3f416015.jpg" alt="波乱万丈" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/d3f416015.jpg" alt="波乱万丈" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -624,7 +624,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="http://www.iqiyi.com/v_19ry1e39ag.html">
-  <img src="static/7378aafdd.jpg" alt="明日再生" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/7378aafdd.jpg" alt="明日再生" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -645,7 +645,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/27058916/">
-  <img src="static/c695f2694.jpg" alt="ミラーズ・明日青春" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/c695f2694.jpg" alt="ミラーズ・明日青春" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -678,7 +678,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://luv4ever520.lofter.com/">
-  <img src="static/d61bdae9c.jpg" alt="eスポーツ天才の堕落カウントダウン" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/d61bdae9c.jpg" alt="eスポーツ天才の堕落カウントダウン" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -699,7 +699,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://v.kuaishou.com/9VPdnT">
-  <img src="static/5edcda15d.jpg" alt="私の人生はネタバレされた" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/5edcda15d.jpg" alt="私の人生はネタバレされた" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -720,7 +720,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://www.xinpianchang.com/a11148266">
-  <img src="static/233171320.jpg" alt="飛べるウサギ" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/233171320.jpg" alt="飛べるウサギ" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -741,7 +741,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://www.ixigua.com/6926795951294448141">
-  <img src="static/52b519edd.jpg" alt="より大きな世界" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/52b519edd.jpg" alt="より大きな世界" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -762,7 +762,7 @@
 <div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://www.ixigua.com/6925687613923787275?id=6925308941765181964&logTag=AObizGgm1RQ2Cczbn8tGg">
-  <img src="static/d9890c63b.jpg" alt="嘘" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+  <img src="static/d9890c63b.jpg" alt="嘘" width="100px" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 
 <br>
@@ -829,7 +829,7 @@
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); max-width: 600px; margin: 0 auto;">
 
 <a href="https://x.com/iamcheyan/status/1971876928782286974">
-  <img src="static/pic/G12DnU0agAAppvS.jpg" alt="バイトダンス（ByteDance）TRAE「Vibe Coding Journey」イベント講演" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+  <img src="static/pic/G12DnU0agAAppvS.jpg" alt="バイトダンス（ByteDance）TRAE「Vibe Coding Journey」イベント講演" width="100px" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
 </a>
 
 <br><br>
@@ -939,7 +939,7 @@
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); max-width: 600px; margin: 0 auto;">
 
 <a href="http://news.youth.cn/gn/201810/t20181009_11749618.htm">
-  <img src="static/pic/W020181009557191748409.png" alt="京東図書有名人キャンパス訪問（北京体育大学イベント）、徹言と関熙潮の対談" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+  <img src="static/pic/W020181009557191748409.png" alt="京東図書有名人キャンパス訪問（北京体育大学イベント）、徹言と関熙潮の対談" width="100px" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
 </a>
 
 <br><br>
