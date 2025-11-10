@@ -1,14 +1,14 @@
-<!-- 顶部横幅 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=こんにちは、徹言です！;你好，我是澈言！;プログラマー・作家・脚本家;程序员・作家・编剧&center=true&size=30&color=4ECDC4&vCenter=true&width=600&height=50">
+  <img src="static/che.png" alt="澈言" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <br><br>
+  <h2>
+    <img src="https://img.shields.io/badge/徹言-プログラマー・作家・脚本家-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="徹言"/>
+    <br>
+    <img src="https://img.shields.io/badge/澈言-程序员・作家・编剧-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="澈言"/>
+  </h2>
 </div>
 
-<!-- 访客统计 -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iamcheyan&left_color=4ECDC4&right_color=FF6B6B&left_text=👀%20Visitors" alt="visitor badge"/>
-</div>
 
-<br>
 
 <!-- GitHub 统计卡片 -->
 <div align="center">
