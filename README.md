@@ -10,11 +10,6 @@
 
 
 
-<!-- GitHub 统计卡片 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamcheyan&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=4ECDC4&icon_color=FF6B6B&text_color=333333"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcheyan&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=4ECDC4&text_color=333333"/>
-</div>
 
 <!-- GitHub 连续打卡 -->
 <div align="center">
@@ -163,88 +158,88 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(78, 205, 196, 0.05);">
+<div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78, 205, 196, 0.05);">
 
-#### 🎓 [Fudoki](https://fudoki.iamcheyan.com/) (2025)
+<h4 style="margin: 4px 0; font-size: 14px;">🎓 <a href="https://fudoki.iamcheyan.com/">Fudoki</a> (2025)</h4>
 
 <div align="center">
 <a href="https://fudoki.iamcheyan.com/">
-  <img src="static/fudoki.png" alt="Fudoki" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/fudoki.png" alt="Fudoki" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
-<p align="center">
-<strong>日本語学習者や自然言語処理研究者向けの日本語テキスト分析ツール</strong><br>
-面向日语学习者和自然语言处理研究者的日语文本分析工具
+<p align="center" style="margin: 8px 0; font-size: 12px;">
+<strong>日本語テキスト分析ツール</strong><br>
+日语文本分析工具
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/学習ツール-2025年-4ECDC4?style=flat-square" alt="学习工具"/>
+<p align="center" style="margin: 4px 0;">
+<img src="https://img.shields.io/badge/学習ツール-2025年-4ECDC4?style=flat-square" alt="学习工具" style="height: 18px;"/>
 </p>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(255, 107, 107, 0.05);">
+<div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255, 107, 107, 0.05);">
 
-#### 📺 [Terebi](https://terebi.iamcheyan.com/) (2025)
+<h4 style="margin: 4px 0; font-size: 14px;">📺 <a href="https://terebi.iamcheyan.com/">Terebi</a> (2025)</h4>
 
 <div align="center">
 <a href="https://terebi.iamcheyan.com/">
-  <img src="static/terebi.png" alt="Terebi" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/terebi.png" alt="Terebi" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
-<p align="center">
-<strong>日本全国100以上のテレビ局の公開番組をオンラインで視聴可能</strong><br>
-可在线观看日本全国100多个电视台的公开节目
+<p align="center" style="margin: 8px 0; font-size: 12px;">
+<strong>日本全国100以上のテレビ局視聴</strong><br>
+日本全国100多个电视台
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/動画サイト-2025年-FF6B6B?style=flat-square" alt="视频网站"/>
+<p align="center" style="margin: 4px 0;">
+<img src="https://img.shields.io/badge/動画サイト-2025年-FF6B6B?style=flat-square" alt="视频网站" style="height: 18px;"/>
 </p>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(78, 205, 196, 0.05);">
+<div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78, 205, 196, 0.05);">
 
-#### 📚 [Kotoba](https://kotoba.iamcheyan.com/) (2024)
+<h4 style="margin: 4px 0; font-size: 14px;">📚 <a href="https://kotoba.iamcheyan.com/">Kotoba</a> (2024)</h4>
 
 <div align="center">
 <a href="https://kotoba.iamcheyan.com/">
-  <img src="static/kotoba.png" alt="Kotoba" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/kotoba.png" alt="Kotoba" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
-<p align="center">
-<strong>オンライン日本語単語暗記ツール</strong><br>
-在线日语单词记忆工具
+<p align="center" style="margin: 8px 0; font-size: 12px;">
+<strong>オンライン日本語単語暗記</strong><br>
+在线日语单词记忆
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/学習ツール-2024年-4ECDC4?style=flat-square" alt="学习工具"/>
+<p align="center" style="margin: 4px 0;">
+<img src="https://img.shields.io/badge/学習ツール-2024年-4ECDC4?style=flat-square" alt="学习工具" style="height: 18px;"/>
 </p>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; padding: 20px; border-radius: 12px; background: rgba(255, 107, 107, 0.05);">
+<div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255, 107, 107, 0.05);">
 
-#### 🐧 [7z-for-Linux](https://github.com/iamcheyan/7z-for-Linux) (2024)
+<h4 style="margin: 4px 0; font-size: 14px;">🐧 <a href="https://github.com/iamcheyan/7z-for-Linux">7z-for-Linux</a> (2024)</h4>
 
 <div align="center">
 <a href="https://github.com/iamcheyan/7z-for-Linux">
-  <img src="static/7z-for-Linux.png" alt="7z-for-Linux" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/7z-for-Linux.png" alt="7z-for-Linux" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
 </div>
 
-<p align="center">
+<p align="center" style="margin: 8px 0; font-size: 12px;">
 <strong>7z圧縮ソフトをLinuxに移植</strong><br>
-将7z压缩软件移植到Linux
+7z压缩软件移植到Linux
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/ソフトウェア移植-2024年-3776AB?style=flat-square" alt="软件移植"/>
+<p align="center" style="margin: 4px 0;">
+<img src="https://img.shields.io/badge/ソフトウェア移植-2024年-3776AB?style=flat-square" alt="软件移植" style="height: 18px;"/>
 </p>
 
 </div>
@@ -261,46 +256,46 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">🎨 <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">OrchideaDock</a> (2023)</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">🎨 <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">OrchideaDock</a> (2023)</h4>
     <a href="https://cinnamon-spices.linuxmint.com/themes/view/OrchideaDock">
-      <img src="static/OrchideaDock.png" alt="OrchideaDock" width="200" style="border-radius: 10px;"/>
+      <img src="static/OrchideaDock.png" alt="OrchideaDock" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
-    <p><strong>システムテーマ</strong><br>系统主题</p>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>システムテーマ</strong><br>系统主题</p>
   </div>
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">📊 YRBOOK BAS (2021)</h4>
-    <img src="static/yrbook.png" alt="YRBOOK BAS" width="200" style="border-radius: 10px;"/>
-    <p><strong>データ分析ツール</strong><br>数据分析工具</p>
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">📊 YRBOOK BAS (2021)</h4>
+    <img src="static/yrbook.png" alt="YRBOOK BAS" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>データ分析ツール</strong><br>数据分析工具</p>
   </div>
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">🎮 <a href="https://iamcheyan.com/app/mir/">Mir2EI2.0</a> (2021)</h4>
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">🎮 <a href="https://iamcheyan.com/app/mir/">Mir2EI2.0</a> (2021)</h4>
     <a href="https://iamcheyan.com/app/mir/">
-      <img src="static/mir2ei.png" alt="Mir2EI2.0" width="200" style="border-radius: 10px;"/>
+      <img src="static/mir2ei.png" alt="Mir2EI2.0" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
-    <p><strong>クラシックゲーム</strong><br>经典游戏</p>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>クラシックゲーム</strong><br>经典游戏</p>
   </div>
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">🏢 <a href="https://wenyue.cn/">wenyue.cn</a> (2014)</h4>
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">🏢 <a href="https://wenyue.cn/">wenyue.cn</a> (2014)</h4>
     <a href="https://wenyue.cn/">
-      <img src="static/wenyue.png" alt="wenyue.cn" width="200" style="border-radius: 10px;"/>
+      <img src="static/wenyue.png" alt="wenyue.cn" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
-    <p><strong>フォント設計・開発</strong><br>字体设计开发</p>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>フォント設計・開発</strong><br>字体设计开发</p>
   </div>
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(78,205,196,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">💼 <a href="https://iamcheyan.com/app/ganline/index.html">GANLINE Olive Media</a> (2012)</h4>
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(78,205,196,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">💼 <a href="https://iamcheyan.com/app/ganline/index.html">GANLINE</a> (2012)</h4>
     <a href="https://iamcheyan.com/app/ganline/index.html">
-      <img src="static/ganline.png" alt="GANLINE Olive Media" width="200" style="border-radius: 10px;"/>
+      <img src="static/ganline.png" alt="GANLINE Olive Media" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
-    <p><strong>ウェブサイト設計</strong><br>网站设计</p>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>ウェブサイト設計</strong><br>网站设计</p>
   </div>
-  <div style="width: 260px; padding: 16px; border-radius: 12px; background: rgba(255,107,107,.08); text-align: center;">
-    <h4 style="margin: 8px 0;">📖 <a href="https://iamcheyan.com/app/veikin/">VEIKIN</a> (2007)</h4>
+  <div style="flex: 1 1 23%; min-width: 200px; max-width: 250px; padding: 12px; border-radius: 10px; background: rgba(255,107,107,.08); text-align: center;">
+    <h4 style="margin: 4px 0; font-size: 14px;">📖 <a href="https://iamcheyan.com/app/veikin/">VEIKIN</a> (2007)</h4>
     <a href="https://iamcheyan.com/app/veikin/">
-      <img src="static/veikin.png" alt="VEIKIN" width="200" style="border-radius: 10px;"/>
+      <img src="static/veikin.png" alt="VEIKIN" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
     </a>
-    <p><strong>電子雑誌</strong><br>电子杂志</p>
+    <p style="margin: 8px 0; font-size: 12px;"><strong>電子雑誌</strong><br>电子杂志</p>
   </div>
 </div>
 
@@ -316,113 +311,103 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
 
 <a href="https://www.books.com.tw/products/0010885446">
-  <img src="static/1e9272132.png" alt="他人の地図では自分の道は見つからない" width="180" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/1e9272132.png" alt="他人の地図では自分の道は見つからない" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://www.books.com.tw/products/0010885446" style="color: white;">他人の地図では自分の道は見つからない</a></strong>
 
 <br>
 
-<small style="color: #f0f0f0;">2020年4月</small><br>
-<small style="color: #f0f0f0;">台湾ムーグァン文化有限公司</small><br>
-<small style="color: #f0f0f0;">ISBN: 9789869942508</small>
+<strong><a href="https://www.books.com.tw/products/0010885446" style="color: white; font-size: 11px;">他人の地図では自分の道は見つからない</a></strong>
+
+<br>
+
+<small style="color: #f0f0f0; font-size: 10px;">2020年4月</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
 
 <a href="https://book.douban.com/subject/35216411/">
-  <img src="static/1881ddbd3.png" alt="ブロックチェーン風雲" width="180" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/1881ddbd3.png" alt="ブロックチェーン風雲" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/35216411/" style="color: white;">ブロックチェーン風雲</a></strong>
 
 <br>
 
-<small style="color: #f0f0f0;">2020年10月</small><br>
-<small style="color: #f0f0f0;">遼寧人民出版社</small><br>
-<small style="color: #f0f0f0;">ISBN: 9787205099527</small>
+<strong><a href="https://book.douban.com/subject/35216411/" style="color: white; font-size: 11px;">ブロックチェーン風雲</a></strong>
+
+<br>
+
+<small style="color: #f0f0f0; font-size: 10px;">2020年10月</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
 
 <a href="https://book.douban.com/subject/30336323/">
-  <img src="static/d9dd49c2e.png" alt="人生の苦しみを嘆くな、それは世界を見る道だ" width="180" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/d9dd49c2e.png" alt="人生の苦しみを嘆くな、それは世界を見る道だ" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/30336323/" style="color: white;">人生の苦しみを嘆くな、それは世界を見る道だ</a></strong>
 
 <br>
 
-<small style="color: #f0f0f0;">2018年11月</small><br>
-<small style="color: #f0f0f0;">江蘇鳳凰文芸出版社</small><br>
-<small style="color: #f0f0f0;">ISBN: 9787559429100</small>
+<strong><a href="https://book.douban.com/subject/30336323/" style="color: white; font-size: 11px;">人生の苦しみを嘆くな、それは世界を見る道だ</a></strong>
+
+<br>
+
+<small style="color: #f0f0f0; font-size: 10px;">2018年11月</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
 
 <a href="https://book.douban.com/subject/27592545/">
-  <img src="static/b1fc0c8b0.png" alt="エース起業家：風口ゲーム" width="180" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/b1fc0c8b0.png" alt="エース起業家：風口ゲーム" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/27592545/" style="color: #333;">エース起業家：風口ゲーム</a></strong>
 
 <br>
 
-<small style="color: #555;">2018年2月</small><br>
-<small style="color: #555;">百花洲文芸出版社</small><br>
-<small style="color: #555;">ISBN: 9787550025387</small>
+<strong><a href="https://book.douban.com/subject/27592545/" style="color: #333; font-size: 11px;">エース起業家：風口ゲーム</a></strong>
+
+<br>
+
+<small style="color: #555; font-size: 10px;">2018年2月</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 250px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
 
 <a href="https://book.douban.com/subject/27031444/">
-  <img src="static/49b4e02ab.png" alt="この世界は変わらない人を忘れていく" width="180" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/49b4e02ab.png" alt="この世界は変わらない人を忘れていく" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/27031444/" style="color: white;">この世界は変わらない人を忘れていく</a></strong>
 
 <br>
 
-<small style="color: #f0f0f0;">2017年5月</small><br>
-<small style="color: #f0f0f0;">北京連合出版公司</small><br>
-<small style="color: #f0f0f0;">ISBN: 9787559602404</small>
+<strong><a href="https://book.douban.com/subject/27031444/" style="color: white; font-size: 11px;">この世界は変わらない人を忘れていく</a></strong>
+
+<br>
+
+<small style="color: #f0f0f0; font-size: 10px;">2017年5月</small>
 
 </div>
 
@@ -438,49 +423,43 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
 
 <a href="https://book.douban.com/subject/30242395/">
-  <img src="static/06988e8c2.png" alt="世界はあなたのような人を罰している" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/06988e8c2.png" alt="世界はあなたのような人を罰している" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/30242395/" style="color: #333;">世界はあなたのような人を罰している</a></strong>
 
 <br>
 
-<small style="color: #555;">2018年3月</small><br>
-<small style="color: #555;">中国法制出版社</small><br>
-<small style="color: #555;">ISBN: 9787509391037</small><br>
-<small style="color: #555;">李尚龍らと共著、夜読公式アカウント発行</small>
+<strong><a href="https://book.douban.com/subject/30242395/" style="color: #333; font-size: 11px;">世界はあなたのような人を罰している</a></strong>
+
+<br>
+
+<small style="color: #555; font-size: 10px;">2018年3月</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);">
+<div style="padding: 8px; border-radius: 8px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);">
 
 <a href="https://book.douban.com/subject/30336323/">
-  <img src="static/15c6004d5.png" alt="あなたが温かくなると天気も良くなる" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="static/15c6004d5.png" alt="あなたが温かくなると天気も良くなる" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.25);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://book.douban.com/subject/30336323/" style="color: #333;">あなたが温かくなると天気も良くなる</a></strong>
 
 <br>
 
-<small style="color: #555;">2017年10月</small><br>
-<small style="color: #555;">江蘇鳳凰文芸出版社</small><br>
-<small style="color: #555;">ISBN: 9787559409898</small><br>
-<small style="color: #555;">関熙潮らと共著、美読公式アカウント発行</small>
+<strong><a href="https://book.douban.com/subject/30336323/" style="color: #333; font-size: 11px;">あなたが温かくなると天気も良くなる</a></strong>
+
+<br>
+
+<small style="color: #555; font-size: 10px;">2017年10月</small>
 
 </div>
 
@@ -500,69 +479,66 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/35196859/">
-  <img src="static/ef18d9861.png" alt="劉老根5" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/ef18d9861.png" alt="劉老根5" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/35196859/">劉老根5</a></strong>
 
 <br>
 
-<small>(2022)</small><br>
-<small>主演：趙本山 / 宋小宝 / 程野 / 閻学晶</small><br>
-<strong style="color: #4ECDC4;">脚本助手</strong>
-
-</div>
-
-</div>
-
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
-
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
-
-<a href="https://movie.douban.com/subject/35196859/">
-  <img src="static/15d4cbbff.jpg" alt="劉老根4" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/35196859/">劉老根4</a></strong>
+<strong><a href="https://movie.douban.com/subject/35196859/" style="font-size: 12px;">劉老根5</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>主演：趙本山 / 宋小宝 / 范偉 / 閻学晶</small><br>
-<strong style="color: #FF6B6B;">ストーリー企画</strong>
+<small style="font-size: 10px;">(2022)</small><br>
+<small style="font-size: 9px;">脚本助手</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
+
+<a href="https://movie.douban.com/subject/35196859/">
+  <img src="static/15d4cbbff.jpg" alt="劉老根4" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
+</a>
+
+<br>
+
+<strong><a href="https://movie.douban.com/subject/35196859/" style="font-size: 12px;">劉老根4</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
+
+</div>
+
+</div>
+
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
+
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/33437298/">
-  <img src="static/b883f89f8.jpg" alt="劉老根3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/b883f89f8.jpg" alt="劉老根3" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/33437298/">劉老根3</a></strong>
 
 <br>
 
-<small>(2020)</small><br>
-<small>主演：趙本山 / 范偉 / 閻学晶</small><br>
-<strong style="color: #4ECDC4;">ストーリー企画</strong>
+<strong><a href="https://movie.douban.com/subject/33437298/" style="font-size: 12px;">劉老根3</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2020)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
@@ -578,113 +554,108 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/35343300/">
-  <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/dd4f8b2e8.jpg" alt="波乱万丈3" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/35343300/">波乱万丈3</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>主演：楊樹林 / 関婷娜 / 王小虎 / 蔡維利</small><br>
-<strong style="color: #FF6B6B;">ストーリー企画</strong>
+<strong><a href="https://movie.douban.com/subject/35343300/" style="font-size: 12px;">波乱万丈3</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://movie.douban.com/subject/35402120/">
-  <img src="static/9edaa83ae.jpg" alt="波乱万丈2" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/9edaa83ae.jpg" alt="波乱万丈2" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/35402120/">波乱万丈2</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>主演：楊樹林 / 田娃 / 王小虎 / 関婷娜</small><br>
-<strong style="color: #4ECDC4;">脚本</strong>
+<strong><a href="https://movie.douban.com/subject/35402120/" style="font-size: 12px;">波乱万丈2</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">脚本</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/30407554/">
-  <img src="static/d3f416015.jpg" alt="波乱万丈" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/d3f416015.jpg" alt="波乱万丈" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/30407554/">波乱万丈</a></strong>
 
 <br>
 
-<small>(2019)</small><br>
-<small>主演：宋暁峰 / 関婷娜 / 蒋依杉 / 文松</small><br>
-<strong style="color: #FF6B6B;">ストーリー企画</strong>
+<strong><a href="https://movie.douban.com/subject/30407554/" style="font-size: 12px;">波乱万丈</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2019)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="http://www.iqiyi.com/v_19ry1e39ag.html">
-  <img src="static/7378aafdd.jpg" alt="明日再生" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/7378aafdd.jpg" alt="明日再生" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="http://www.iqiyi.com/v_19ry1e39ag.html">明日再生</a></strong>
 
 <br>
 
-<small>(2020)</small><br>
-<small>主演：周雲鵬 / 程野 / 蔡維利</small><br>
-<strong style="color: #4ECDC4;">プロデューサー助手</strong>
+<strong><a href="http://www.iqiyi.com/v_19ry1e39ag.html" style="font-size: 12px;">明日再生</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2020)</small><br>
+<small style="font-size: 9px;">プロデューサー助手</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://movie.douban.com/subject/27058916/">
-  <img src="static/c695f2694.jpg" alt="ミラーズ・明日青春" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/c695f2694.jpg" alt="ミラーズ・明日青春" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://movie.douban.com/subject/27058916/">ミラーズ・明日青春</a></strong>
 
 <br>
 
-<small>(2017)</small><br>
-<small>主演：李程彬 / 郭姝彤 / 顔卓霊 / 周游 / 王柏傑 / 段博文</small><br>
-<strong style="color: #FF6B6B;">書籍全記録企画編集</strong>
+<strong><a href="https://movie.douban.com/subject/27058916/" style="font-size: 12px;">ミラーズ・明日青春</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2017)</small><br>
+<small style="font-size: 9px;">書籍全記録企画編集</small>
 
 </div>
 
@@ -700,113 +671,108 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://luv4ever520.lofter.com/">
-  <img src="static/d61bdae9c.jpg" alt="eスポーツ天才の堕落カウントダウン" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/d61bdae9c.jpg" alt="eスポーツ天才の堕落カウントダウン" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://luv4ever520.lofter.com/">eスポーツ天才の堕落カウントダウン</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>主演：周峻宇 / 王奕歓</small><br>
-<strong style="color: #4ECDC4;">映像企画</strong>
+<strong><a href="https://luv4ever520.lofter.com/" style="font-size: 12px;">eスポーツ天才の堕落カウントダウン</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">映像企画</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://v.kuaishou.com/9VPdnT">
-  <img src="static/5edcda15d.jpg" alt="私の人生はネタバレされた" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/5edcda15d.jpg" alt="私の人生はネタバレされた" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://v.kuaishou.com/9VPdnT">私の人生はネタバレされた</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>主演：王老四 / 鐘美美</small><br>
-<strong style="color: #FF6B6B;">エグゼクティブプロデューサー</strong>
+<strong><a href="https://v.kuaishou.com/9VPdnT" style="font-size: 12px;">私の人生はネタバレされた</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">エグゼクティブプロデューサー</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 30%; min-width: 240px; max-width: 320px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://www.xinpianchang.com/a11148266">
-  <img src="static/233171320.jpg" alt="飛べるウサギ" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/233171320.jpg" alt="飛べるウサギ" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://www.xinpianchang.com/a11148266">飛べるウサギ</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>Toutiaoブランドプロモーション</small><br>
-<strong style="color: #4ECDC4;">ストーリー企画</strong>
+<strong><a href="https://www.xinpianchang.com/a11148266" style="font-size: 12px;">飛べるウサギ</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(255, 107, 107, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(255, 107, 107, 0.1);">
 
 <a href="https://www.ixigua.com/6926795951294448141">
-  <img src="static/52b519edd.jpg" alt="より大きな世界" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/52b519edd.jpg" alt="より大きな世界" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://www.ixigua.com/6926795951294448141">より大きな世界</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>Toutiaoブランドプロモーション</small><br>
-<strong style="color: #FF6B6B;">ストーリー企画</strong>
+<strong><a href="https://www.ixigua.com/6926795951294448141" style="font-size: 12px;">より大きな世界</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
 </div>
 
-<div style="flex: 1 1 45%; min-width: 280px; max-width: 400px;">
+<div style="flex: 1 1 23%; min-width: 180px; max-width: 220px;">
 
-<div style="padding: 10px; border-radius: 10px; background: rgba(78, 205, 196, 0.1);">
+<div style="padding: 8px; border-radius: 8px; background: rgba(78, 205, 196, 0.1);">
 
 <a href="https://www.ixigua.com/6925687613923787275?id=6925308941765181964&logTag=AObizGgm1RQ2Cczbn8tGg">
-  <img src="static/d9890c63b.jpg" alt="嘘" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="static/d9890c63b.jpg" alt="嘘" width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);"/>
 </a>
-
-<br><br>
-
-<strong><a href="https://www.ixigua.com/6925687613923787275?id=6925308941765181964&logTag=AObizGgm1RQ2Cczbn8tGg">嘘</a></strong>
 
 <br>
 
-<small>(2021)</small><br>
-<small>Toutiaoブランドプロモーション</small><br>
-<strong style="color: #4ECDC4;">ストーリー企画</strong>
+<strong><a href="https://www.ixigua.com/6925687613923787275?id=6925308941765181964&logTag=AObizGgm1RQ2Cczbn8tGg" style="font-size: 12px;">嘘</a></strong>
+
+<br>
+
+<small style="font-size: 10px;">(2021)</small><br>
+<small style="font-size: 9px;">ストーリー企画</small>
 
 </div>
 
