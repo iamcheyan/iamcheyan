@@ -8,10 +8,7 @@
   </h2>
 </div>
 
-<!-- For user accounts - Metrics embed -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamcheyan/iamcheyan/main/.github/metrics/classic.svg" alt="Metrics" width="100%"/>
-</div>
+
 
 <!-- GitHub 连续打卡 -->
 <div align="center">
